@@ -1,5 +1,8 @@
 # 📉 AI Stock Analyst
 
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/898c9116-6ec1-443b-9974-aed88a82c7fc" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/05310ad2-503f-4b6e-b6e0-e7df983bf31e" />
+
 Приложение для анализа и прогнозирования акций с использованием машинного обучения и AI-аналитики.
 
 ## Возможности
@@ -34,19 +37,6 @@ streamlit run app.py
 
 Зарегистрируйся на [console.groq.com](https://console.groq.com) — ключ бесплатный.
 
-## Структура проекта
-
-```
-my-project/
-├── notebooks/
-│   └── analysis.ipynb    # EDA + эксперименты
-├── app.py                # Streamlit приложение
-├── requirements.txt      # Зависимости
-├── README.md             # Описание
-└── data/
-    ├── raw/              # Исходные данные
-    └── processed/        # Обработанные данные
-```
 
 ## Дисклеймер
 
